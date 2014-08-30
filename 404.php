@@ -1,5 +1,7 @@
 <?php get_header(); ?>
 	
-	404
+	<div id="content">
+		<h2>OOPS! This page doesn't exist</h2>
+	</div>
 	
 <?php get_footer(); ?>
