@@ -10,7 +10,7 @@
         <link rel="icon" type="image/png" href="<?php echo get_stylesheet_directory_uri(); ?>/img/favicon.png">
 
         <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/css/normalize.css">
-        <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>/css/main.css">
+        <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>">
     </head>
     <body>
 		
